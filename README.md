@@ -3,11 +3,11 @@
 ### Commands
 
 
-`yarn dev`
+`yarn dev` || `npm run dev`
 
-`yarn build`
+`yarn build` || `npm run build`
 
-`yarn test`
+`yarn test` || `npm run test`
 
 
 ### Dependencies
