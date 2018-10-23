@@ -1,5 +1,4 @@
-const add =  async (n, m) => {
-    return m + n
+function add (n,m) {
+    return n + m
 }
-
 export default add
